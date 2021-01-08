@@ -1,7 +1,8 @@
 [
+        "posts":[
         {"title":"title1","brief":"breif1","img":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"},
         {"title":"title2","brief":"breif2","img":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"},
         {"title":"title3","brief":"breif3","img":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"},
-        {"title":"title4","brief":"breif4","img":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"}
+        {"title":"title4","brief":"breif4","img":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"}]
     
     ]
